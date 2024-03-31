@@ -1,3 +1,3 @@
-# inwentaryzacja-frontend
+# Inventory Web App - Frontend
 
-Warstwa frontend projektu inwentaryzacji uczelni na Inżynierię Oprogramowania.
+
